@@ -14,9 +14,13 @@ const Nav = () => {
             <a href="/pdrilling">PROPSDRILLING</a>
             <a href="/context">CONTEXT</a>
             <a href="/axios">AXIOS</a>
-            {/* <a href="/useeffect">USEEFFECT</a> */}
+            <a href="/useeffect">USEEFFECT</a>
+            <a href="/preport">PRODUCTREPORT</a>
+            <a href="/conrend">CONDITIONALRENDERING</a>
+            <a href="/addproduct">ADDPRODUCT</a>
             <a href="/product">PRODUCT</a>
-            <a href="/conrend">Conditional Rendering</a>
+            
+            
         </div>
     </div>
   )
